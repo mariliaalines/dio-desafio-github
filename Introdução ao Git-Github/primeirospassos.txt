@@ -1,0 +1,23 @@
+O que é Versionamento de Código?
+
+Gestão de mudanças e possibilidade de recuperar códigos alterados.
+
+O que é Git?
+
+É um sistema de controle de versão criado pelo Linus Torvalds, 
+criador do Linux, durante a construção do mesmo.
+
+Atualmente o Git é abstraído por sistemas como GitHub, GitLab e Azure DevOps, 
+que fornecem uma plataforma sob o sistema, facilitando seu uso em nosso dia-a-dia.
+
+O que é GitHub?
+
+É uma ferramenta que nos possibilida acesso ao Git para armazenar nossos códigos
+e assim poder usufruir do poder de versionamento que o Git oferece.
+
+O GitHub é uma plataforma completa e conta com muitos recursos, além de ser 
+gratuito para a maioria dos serviços.
+
+Também é conhecido por ser o portifólio dos desenvolvedores, pois é nele que
+guardamos os códigos que produzimos.
+
